@@ -1,0 +1,13 @@
+streamlit
+streamlit-webrtc
+ultralytics
+torch
+torchvision
+opencv-python
+ollama
+gtts
+numpy
+pyttsx3 
+easyocr
+pyaudio
+pvporcupine
